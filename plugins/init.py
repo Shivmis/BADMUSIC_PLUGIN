@@ -1,21 +1,3 @@
-# NOTHING HERE GO BACK TO PLUGINS
-
-import asyncio
-
-import config
-from BADMUSIC import app
-from BADMUSIC.utils.database import get_assistant
-
-AUTO = True
-
-ADD_INTERVAL = 300
-
-
-
-
-
-
-
 
 
 
